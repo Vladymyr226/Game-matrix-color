@@ -12,7 +12,7 @@ body {
   margin: 0;
 }
 
-.container{
+.container {
   /* выстраиваем в одну линиию */
   display: flex;
   /* для того, чтобы наши квадраты были видны */
@@ -23,7 +23,7 @@ body {
   max-width: 400px;
 }
 
-.square{
+.square {
   width: 16px;
   height: 16px;
   background: #1d1d1d;
@@ -32,6 +32,6 @@ body {
   transition: 3s ease;
 }
 
-.square:hover{
+.square:hover {
   transition-duration: 0s;
 }
